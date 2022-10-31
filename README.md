@@ -17,13 +17,13 @@
 Install via NPM:
 
 ```
-npm install react-canvas-draw --save
+npm install @naftalimurgor/react-canvas-draw --save
 ```
 
 or YARN:
 
 ```
-yarn add react-canvas-draw
+yarn add @naftalimurgor/react-canvas-draw
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ yarn add react-canvas-draw
 ```javascript
 import React from "react";
 import ReactDOM from "react-dom";
-import CanvasDraw from "react-canvas-draw";
+import CanvasDraw from "@naftalimurgor/react-canvas-draw";
 
 ReactDOM.render(<CanvasDraw />, document.getElementById("root"));
 ```
@@ -99,18 +99,7 @@ The [lazy-brush](https://github.com/dulnan/lazy-brush) project as well as its de
 I borrowed a lot of the logic and actually used lazy-brush during the push to v1 of react-canvas-draw. Without it, react-canvas-draw would most likely still be pre v1 and wouldn't feel as good.
 
 ## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/3866457?v=4" width="100px;"/><br /><sub><b>Martin Beierling-Mutz</b></sub>](https://embiem.me)<br />[💻](https://github.com/embiem/react-canvas-draw/commits?author=embiem "Code") [📖](https://github.com/embiem/react-canvas-draw/commits?author=embiem "Documentation") [💡](#example-embiem "Examples") [🤔](#ideas-embiem "Ideas, Planning, & Feedback") | [<img src="https://avatars0.githubusercontent.com/u/4155003?v=4" width="100px;"/><br /><sub><b>Jan Hug</b></sub>](http://www.janhug.info)<br />[🤔](#ideas-dulnan "Ideas, Planning, & Feedback") |
-| :---: | :---: |
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
-
+A fork of [react-canvas-draw](https://github.com/embiem/react-canvas-draw)
 ## License
 
 MIT, see [LICENSE](https://github.com/embiem/react-canvas-draw/blob/master/LICENSE) for details.
