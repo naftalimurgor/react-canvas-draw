@@ -1,6 +1,6 @@
 {
   "name": "@naftalimurgor/react-canvas-draw",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A simple yet powerful canvas-drawing component for React.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -51,15 +51,15 @@
     "react-dom": "^16.2.0",
     "style-loader": "^0.19.1"
   },
-  "author": "Martin Beierling <mbeierling@gmail.com>",
+  "author": "Naftali Murgor <nmurgor10@gmail.com>",
   "homepage": "https://embiem.github.io/react-canvas-draw/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/embiem/react-canvas-draw.git"
+    "url": "git+https://github.com/naftalimurgor/react-canvas-draw.git"
   },
   "bugs": {
-    "url": "https://github.com/embiem/react-canvas-draw/issues"
+    "url": "https://github.com/naftalimurgor/react-canvas-draw/issues"
   },
   "keywords": [
     "react-component",
